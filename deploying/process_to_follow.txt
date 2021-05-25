@@ -1,0 +1,7 @@
+1.Train your model
+2.Create web api using flask
+3.commit the code in github
+4.create an account in heroku(PAAS-platform as a service)
+5.link the github to heroku
+6.deploy the model
+7.web app is ready
